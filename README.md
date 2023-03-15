@@ -31,7 +31,7 @@ You can visit here to see the demo: https://next-shopify-storefront.vercel.app/
 Clone the source code into your computer.
 
 ```bash
-git clone https://github.com/maxvien/next-shopify-storefront.git
+git clone https://github.com/whitebird1016/Next.js-Shopify-Storefront
 ```
 
 Install the project's dependencies.
@@ -96,9 +96,3 @@ To speed up your productivity, you can install these extensions:
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-
-## Related Projects
-
-- **[Shopify Data Faker](https://github.com/Maxvien/shopify-data-faker)** • A Shopify development tool for generating dummy store data.
-- **[Bootstrap Shopify Theme](https://github.com/Maxvien/bootstrap-shopify-theme)** • A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
-- **[Next Shopify Storefront (v1)](https://github.com/Maxvien/next-shopify-storefront/tree/v1)** • A Shopping Cart built with TypeScript, NextJS, React, Redux, Apollo Client, Shopify Storefront GraphQL API, ... and Material UI.
